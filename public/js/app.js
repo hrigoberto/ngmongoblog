@@ -1,3 +1,3 @@
-angular.module('ngmongoblog' [
+angular.module('ngmongoblog', [
   'ngRoute'
 ]);
