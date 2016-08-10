@@ -12,7 +12,6 @@
       getOneUser: getOneUser,
       updateUser: updateUser,
       deleteUser: deleteUser
-
     };
     return service
 
