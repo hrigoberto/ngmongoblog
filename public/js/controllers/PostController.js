@@ -5,6 +5,7 @@
     PostController.$inject = ['$scope'];
 
     function PostController($scope){
-      $scope.message = "PostController Scope Message"
+      $scope.postTitle = "First Post"
+      $scope.postBody = "still testing things out at the moment"
     }
 }());
