@@ -23,7 +23,7 @@
       controller: "ProfileController"
     })
     .when('/post/:postId', {
-      templateUrl: "/html/views/post.html",
+      templateUrl: "/html/views/post-page.html",
       controller: "PostController"
     })
     .when('/create', {
